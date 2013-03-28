@@ -11,10 +11,13 @@
     "https://github.com/SublimeText"
   ],
   "packagesge_name_map": {
-    "PlainTasks":"Plain Tasks",
-    "SideBarEnhancements":"Side Bar Enhancements",
-    "SublimeHttpRequester":"Http Requester",
-    "sublime-text-2-git":"git"
+    "AngularJs.tmbundle":"ST3:AngularJs",
+    "ColdFusion":"ST3:ColdFusion",
+    "Nettuts-Fetch":"ST3:Nettuts-Fetch",
+    "PlainTasks":"ST3:Plain Tasks",
+    "SideBarEnhancements":"ST3:Side Bar Enhancements",
+    "SublimeHttpRequester":"ST3:Http Requester",
+    "sublime-text-2-git":"ST3:git"
   },
   "renamed_packages":{
   },
