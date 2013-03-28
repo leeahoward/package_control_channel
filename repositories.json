@@ -10,7 +10,7 @@
     "https://github.com/leeahoward/Nettuts-Fetch" ,
     "https://github.com/SublimeText"
   ],
-  "packagesge_name_map": {
+  "package_name_map": {
     "AngularJs.tmbundle":"ST3 AngularJs",
     "ColdFusion":"ST3 ColdFusion",
     "Nettuts-Fetch":"ST3 Nettuts-Fetch",
