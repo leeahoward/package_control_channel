@@ -19,10 +19,10 @@
   "renamed_packages":{
   },
   "disabled_repositories":[
-    "https://github.com/aphex/SuperAnt"
+    "https://github.com/aphex/SuperAnt",
     "https://github.com/braindamageinc/SublimeHttpRequester",
     "https://github.com/misfo/Shell-Turtlestein",
     "https://github.com/tvooo/sublime-grunt",
-    "https://raw.github.com/robcowie/SublimeTODO/master/packages.json",
+    "https://raw.github.com/robcowie/SublimeTODO/master/packages.json"
   ]
 }
